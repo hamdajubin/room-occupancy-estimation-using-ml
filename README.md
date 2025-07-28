@@ -52,7 +52,7 @@ The following key point where observed:
 * A clear pattern was observed: Rooms are typically occupied between 10:00 and 20:00 on Wednesdays, Fridays and Saturdays.
 ##  Tools Used  
 * Python  
-* Jupiter notebook  
+* Jupyter notebook  
 * Pandas, NumPy  
 * Scikit-Learn  
 * Matplotlib, Seaborn  
