@@ -13,7 +13,7 @@
 * Source: UC Irvine Machine Learning Repository  
 * Format: CSV  
 * Instance: 10.13k  
-* Features: 16  
+* Features: 18 
 
 ## Features Used  
 * **S5_CO2**:CO2 Concentration  
